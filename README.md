@@ -133,8 +133,15 @@ Strategi ini disebut juga continuation pattern
      
 
 
+## PAT vs News
 
+* Apapun yang mempengaruhi market seperti news, laporan ekonomi, atau open posisi hedge fund semua itu bisa terlihat jelas dengan PAT
+* Mencoba menganalisa semua faktor yang mempengaruhi market adalah sebuah tindakan yang tidak perlu
+* Naked trading atau PAT lebih memuat simple dan kejelasan faktor yang hanya berada di depan mata yaitu chart itu sendiri
 
+![pai33](https://user-images.githubusercontent.com/27078712/88461546-a54b9400-cece-11ea-9c56-de39136ee265.PNG)
+
+  
 
 
 
