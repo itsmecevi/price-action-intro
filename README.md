@@ -12,6 +12,38 @@
 
 **Strategi PAT:**
 
+* Inside bar pattern
+![pai1](https://user-images.githubusercontent.com/27078712/88451727-46146200-ce83-11ea-9c36-47cf4c415e5b.PNG)
+
+* Pin bar pattern
+
+![pai2](https://user-images.githubusercontent.com/27078712/88451753-8542b300-ce83-11ea-851d-2218f9782274.PNG)
+
+
+* Fakey pattern
+
+![pai3](https://user-images.githubusercontent.com/27078712/88451775-c2a74080-ce83-11ea-8ba3-91b715a0e2de.PNG)
+
+
+
+**Example Trading:**
+
+![pai4](https://user-images.githubusercontent.com/27078712/88451913-ab1c8780-ce84-11ea-827d-4b4e6af24a27.PNG)
+![pai5](https://user-images.githubusercontent.com/27078712/88451914-ac4db480-ce84-11ea-8d83-cad434322a19.PNG)
+![pai7](https://user-images.githubusercontent.com/27078712/88451916-ace64b00-ce84-11ea-9178-b8246d434742.PNG)
+![pai8](https://user-images.githubusercontent.com/27078712/88451918-ad7ee180-ce84-11ea-827e-84f492a972f3.PNG)
+
+
+
+**Confluence: datang bersama dengan SR**
+
+![pai10](https://user-images.githubusercontent.com/27078712/88452038-b7551480-ce85-11ea-8bdf-0e1c03511d94.PNG)
+
+
+
+
+
+
 
 
 
