@@ -55,7 +55,29 @@
 
 * Kenapa CS merupakan chart terbaik untuk PAT:
 
+   * Visual warna ketika bullish dan bearish
+   * Kejelasan high, low, open, dan close
+   
 
+## Candlestick Patterns
+
+* CS menunjukan daily high, low, open, dan low pergerakan market. Hal tersebut sangat penting dalam PAT
+* Perbedaan mencolok yang membedakan CS dengan yang lainnya adalah bahwa CS mempunyai warna yang berbeda ketika bullish dan bearish
+
+![pai29](https://user-images.githubusercontent.com/27078712/88461161-67993c00-cecb-11ea-9ed8-389f06fd78be.PNG)
+
+
+* Ada 3 jenis CS pattern yang paling kuat dipakai untuk PAT:
+
+1. Pin Bar
+![pai32](https://user-images.githubusercontent.com/27078712/88461217-dd050c80-cecb-11ea-8a42-e49ce5e6927f.PNG)
+
+
+2. Inside Bar
+![pai30](https://user-images.githubusercontent.com/27078712/88461199-bcd54d80-cecb-11ea-99a3-022093445771.PNG)
+
+2. Fakey
+![pai31](https://user-images.githubusercontent.com/27078712/88461209-cb236980-cecb-11ea-84dc-9b297a3ee6b1.PNG)
 
 
 
