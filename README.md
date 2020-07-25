@@ -40,6 +40,27 @@
 ![pai10](https://user-images.githubusercontent.com/27078712/88452038-b7551480-ce85-11ea-8bdf-0e1c03511d94.PNG)
 
 
+## Price Charts
+
+* Charts bisa dilihat sebagai pegerakan market dengan interval waktu 1 menit, 5 menit, 15 menit, 30 menit, 1 jam, 4 jam, daily, weekly, bahkan monthly (di metatrader4)
+* Ada 3 jenis chart yaitu line chart, bar chart, dan candlestick chart. Yang paling banyak dipakai untuk PAT adalah candlestick chart (CS)
+
+![pai24](https://user-images.githubusercontent.com/27078712/88459429-b6d96f80-cebf-11ea-85ea-2a171356f5c0.PNG)
+![pai25](https://user-images.githubusercontent.com/27078712/88459430-b8a33300-cebf-11ea-9485-3f0eb8a41b5c.PNG)
+![pai26](https://user-images.githubusercontent.com/27078712/88459431-b93bc980-cebf-11ea-8469-6fd8bf6ab490.PNG)
+![pai27](https://user-images.githubusercontent.com/27078712/88459432-b9d46000-cebf-11ea-889c-e09e7ca16f1b.PNG)
+![pai28](https://user-images.githubusercontent.com/27078712/88459434-bb058d00-cebf-11ea-8605-1fc40078fcf7.PNG)
+
+
+
+* Kenapa CS merupakan chart terbaik untuk PAT:
+
+
+
+
+
+
+
 
 ## Reversal Strategies
 
