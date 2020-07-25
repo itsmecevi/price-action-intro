@@ -69,6 +69,26 @@
 
 
 
+## Breakout Strategies
+
+* Breakout strategy sangat kuat dan biasanya membawa kepada tren yang kuat dalam pergerakan market
+Strategi ini disebut juga continuation pattern
+* Continuation pattern dalam strategi ini dicirikan dengan adanya 3 jenis cs, yaitu pin bar, fakey, dan inside bar
+
+![pai18](https://user-images.githubusercontent.com/27078712/88458702-1fbde900-ceba-11ea-8c5c-e5b223d13877.PNG)
+![pai19](https://user-images.githubusercontent.com/27078712/88458706-22204300-ceba-11ea-8344-8ba9ddcaf6ba.PNG)
+![pai20](https://user-images.githubusercontent.com/27078712/88458708-22b8d980-ceba-11ea-80ea-978c350f0f71.PNG)
+![pai21](https://user-images.githubusercontent.com/27078712/88458711-23ea0680-ceba-11ea-944e-14074c628f22.PNG)
+![pai22](https://user-images.githubusercontent.com/27078712/88458714-251b3380-ceba-11ea-8448-ac48df81198d.PNG)
+![pai23](https://user-images.githubusercontent.com/27078712/88458715-25b3ca00-ceba-11ea-9e64-240ab141be54.PNG)
+
+
+* Tips breakout trading:
+
+     * Breakout strategi sangat powerfull, gunakan di market yang tren sebagai continuation pattern
+     * Breakout strategi biasanya menggunakan stop loss. Gunakan stop loss di sekitaran titik breakout, sehingga akan mengurangi resiko dan gunakan juga take profit dengan aturan risk reward ration minimal 1:1
+     
+
 
 
 
