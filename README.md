@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## Intro
+
+**Apa itu Price Action Trading:**
+
+* PAT adalah sebuah metode spekulasi di pasar finansial yang berlandaskan kepada pergerakan harga di chart
+* PAT digunakan banyak retail trader dan institusional trader
+* Secara simple, PAT adalah bentuk "action" dari pergerakan harga, lebih ideal di pergerakan market yang volatil dan likuiditas yang tinggi
+* PAT kebanyakan mengabaikan Fundamental Analysis, karena PAT hanya berfokus kepada harga sebelumnya yang terjadi di dalam sebuah chart, bukan karena alasan kenapa pergerakan itu terjadi
+* PAT merupakan salah satu bentuk dari teknikal analisis, perbedaannya terletak pada cara berpikir PAT yang apa adanya, tanpa bantuan indikator apapun, dan tidak terpengaruh faktor apapun selain chart harga sebelumnya, hanya dipengaruhi murni oleh pergerakan chart saat itu juga dan bayang-bayang masa lalu pergerakan harga. Tidak memahami alasan pergerakan harga tersebut, hanya fokus kepada CS
+* Disebut juga naked trading, natural trading, simple trading, clean trading, dll
+
+
+**Strategi PAT:**
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/price-action-intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
