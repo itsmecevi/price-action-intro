@@ -43,6 +43,32 @@
 
 ## Reversal Strategies
 
+* Salah satu penggunaan PAT adalah untuk mengetahui reversal atau titik balik dari pergerakan harga. Salah satu tekniknya adalah menggunakan Pinbar sebagai konfirmasi reversal dan Support & Resistance
+* Penggunaan Pinbar harus diikuti penggunaan garis SR sebagai konfirmator
+
+![pai11](https://user-images.githubusercontent.com/27078712/88457666-7b847400-ceb2-11ea-9719-5f78798bfc22.PNG)
+
+
+* Kesalahan terbesar trader adalah tinggal menunggu konfrimasi dari garis SR, tetapi langsung melakukan OP jika ada Pinbar
+
+* Berikut beberapa skenario trading dengan PAT dalam pinbar dan inside bar reversal
+
+![pai12](https://user-images.githubusercontent.com/27078712/88457770-6b20c900-ceb3-11ea-8748-891a305b26f6.PNG)
+![pai13](https://user-images.githubusercontent.com/27078712/88457771-6c51f600-ceb3-11ea-8ff7-c4c3d67a6015.PNG)
+![pai15](https://user-images.githubusercontent.com/27078712/88457772-6cea8c80-ceb3-11ea-82ae-fb92e5ead4c9.PNG)
+![pai16](https://user-images.githubusercontent.com/27078712/88457774-6d832300-ceb3-11ea-8cb0-90a1d75a6ded.PNG)
+![pai17](https://user-images.githubusercontent.com/27078712/88457775-6d832300-ceb3-11ea-9e30-9f8f6321cfc3.PNG)
+
+
+
+* Tips Reversal PAT Trading:
+
+    * PAT bisa digunakan dalam kondisi segala jenis market, trend ataupun sideway
+    * Daily TF dan TF4 paling bagus digunakan untuk Pinbar reversal dan fakey reversal
+    * Gunakan selalu garis SR dan tunggu sampai pegerakan harga balik kembali ke titik awal SR (turning point)
+
+
+
 
 
 
